@@ -1,1 +1,1 @@
-# Labpratorio-2-js-anderson-lozano
+# Laboratorio-2-js-anderson-lozano
