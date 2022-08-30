@@ -4,7 +4,8 @@ import { crearTodoHtml } from './js/componentes'
 
 export const todoList = new TodoList()
 
-const tarea = new Todo('Aprender JavaScript')
-todoList.nuevoTodo(tarea)
+// const tarea = new Todo('Aprender JavaScript')
+// todoList.nuevoTodo(tarea)
+// crearTodoHtml(tarea)
 
-crearTodoHtml(tarea)
+todoList.todos.forEach((todo) => crearTodoHtml(todo))
