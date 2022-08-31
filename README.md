@@ -46,7 +46,7 @@ Ya casi damos por terminada la presentación del proyecto...
 
 Esta vez hemos decidido no ser tan técnicos con la información  que te dimos para que de este modo puedas entender un poco más como funciona y esperamos que paso a paso podamos resumirte mucho mejor la información para que se te sea más cómodo leerla y no te dé tanta molestia leerla al no entender que es lo que allí dice. 
 
-En los próximos días subiremos las indicaciones de como funciona la el proyecto en su estructura interna y no solo la externa.
+En los próximos días subiremos las indicaciones de como funciona el proyecto en su estructura interna y no solo la externa.
 
 Con esto damos por finalizada la explicación de como funciona el laboratorio #2 con JavaScript
 
